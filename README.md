@@ -8,10 +8,10 @@ Este repositório centraliza o código fonte e as demonstrações dos projetos d
 
 Projetos práticos e rápidos desenvolvidos em eventos de curta duração, focados em soluções específicas.
 
-### 🤖 Inteligência Artificial (Concluído)
-| Nome do Projeto | Tecnologias Principais | Código Fonte |
-| :--- | :--- | :--- |
-| **Análise e Recomendação de Mídia** (Imersão IA Alura) | Python, Pandas, Streamlit | [Acessar Repositório](https://github.com/Josiane-Alves-ADS/Imersao-IA-Alura) |
+### 🤖 Inteligência Artificial
+| Nome do Projeto | Status | Tecnologias Principais | Código Fonte |
+| :--- | :--- | :--- | :--- |
+| **Análise e Recomendação de Mídia** (Imersão IA Alura) | **CONCLUÍDO** | Python, Pandas, Streamlit | [Acessar Repositório](https://github.com/Josiane-Alves-ADS/Imersao-IA-Alura) |
 
 ---
 
@@ -19,7 +19,8 @@ Projetos práticos e rápidos desenvolvidos em eventos de curta duração, focad
 
 Projetos robustos e complexos criados durante a conclusão de trilhas de aprendizado e formações completas.
 
-### 💻 Desenvolvimento Web (Front-end) - Ri Happy + DIO
+### 💻 Desenvolvimento Web (Front-end)
+#### Ri Happy - Front-end do Zero (Ri Happy + DIO)
 | Nome do Projeto | Status | Tecnologias Principais | Código Fonte |
 | :--- | :--- | :--- | :--- |
 | Criando sua Primeira Landing Page | **CONCLUÍDO** | HTML, CSS | [Acessar Repositório](https://github.com/Josiane-Alves-ADS/trilha-css-desafio-01) |
@@ -34,15 +35,17 @@ Projetos robustos e complexos criados durante a conclusão de trilhas de aprendi
 | Multiverso Spider-Man: Criando um Site | Em Breve | HTML, CSS, JavaScript | Em Breve |
 | Construindo seu Portfólio Front-end do Zero | Em Breve | HTML, CSS, JavaScript | Em Breve |
 
-### 🤖 Inteligência Artificial (Formações DIO)
-| Nome do Projeto | Status | Tecnologias Principais | Código Fonte |
-| :--- | :--- | :--- | :--- |
-| Natural ou Fake Natty? (Formação Fundamentos) | Em Breve | Python, IA Generativa | Em Breve |
-
-### 🤖 Inteligência Artificial (Universia + DIO)
+### 🤖 Inteligência Artificial
+#### Universia - Fundamentos de IA Generativa (Universia + DIO)
 | Nome do Projeto | Status | Tecnologias Principais | Código Fonte |
 | :--- | :--- | :--- | :--- |
 | Criando um Podcast com IAs Generativas | Em Breve | ChatGPT, IA Generativa | Em Breve |
 | Criando um Ebook com ChatGPT & MidJourney | Em Breve | ChatGPT, MidJourney, IA Generativa | Em Breve |
 
+#### Formação Fundamentos de Inteligência Artificial (DIO)
+| Nome do Projeto | Status | Tecnologias Principais | Código Fonte |
+| :--- | :--- | :--- | :--- |
+| Natural ou Fake Natty? (Formação Fundamentos) | Em Breve | Python, IA Generativa | Em Breve |
+
 ---
+
