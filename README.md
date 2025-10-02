@@ -48,4 +48,3 @@ Projetos robustos e complexos criados durante a conclusão de trilhas de aprendi
 | Natural ou Fake Natty? (Formação Fundamentos) | Em Breve | Python, IA Generativa | Em Breve |
 
 ---
-
